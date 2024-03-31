@@ -1,0 +1,30 @@
+*{
+    background-color: #7F6A93;
+    font-family: monospace;
+    margin: 15px;
+    color:#D3D5D4;
+   
+}
+
+.interno{
+    background-color: #878E99;
+    border-style: groove;
+    border-radius: 5px;
+    padding: 2px;
+}
+
+.aliexpress{
+    background-color: #878E99;
+    border-style: groove;
+    border-radius: 5px;
+    padding: 2px;
+}
+
+
+div img{
+    height: 200px;
+    justify-content: 50%;
+    align-items: center;
+    border: solid black; 
+    border-radius: 5px;
+}

@@ -1,0 +1,42 @@
+
+.main{
+    display: flex;
+    justify-content: center;
+}
+
+.conteiner{
+    width: 50%;
+    align-items: center;
+}
+
+#p1{
+    background-color: aqua;
+    border: solid black 3px;
+}
+
+#p2{
+    background-color: white;
+    border: dashed black 3px;
+}
+
+#p3{
+    background-color: white;
+    border-right: double black 3px;
+    border-top: dashed black 3px;
+    border-bottom: dotted black 3px;
+    border-left: solid black 3px;
+}
+
+#p4{
+    background-color: white;
+    border: solid 3px;
+    border-top-color: red ;
+    border-bottom-color: blue;
+    border-left-color: green;
+    border-right-color: violet;
+}
+
+#p5{
+    font: arial;
+    background-color: beige;
+}
